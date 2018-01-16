@@ -13,5 +13,5 @@ function logWhisper(string){
   console.log(`${lcstring}`)
 }
 function sayHiToGrandma(string){
-  
+  if
 }
